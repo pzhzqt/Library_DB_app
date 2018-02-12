@@ -1,0 +1,159 @@
+
+
+body {
+    font-family: 'Alegreya', serif;
+    font-size: 18px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+/* navbar*/
+
+.navbar-inverse .navbar-brand {
+    font-size: 30px;
+    color: #fff;
+}
+
+.navbar-inverse {
+    background-color: #000 !important;
+    border-color: #080808;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ff9800;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #000;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+    background-color: #ff9800;
+}
+
+
+
+
+
+/*SECTIONS*/
+.login {
+	padding-top: 150px;
+	background: #1E88E5;
+	height: 100%;
+	width: auto;
+}
+
+#admin {
+    background: #1E88E5;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    height: 100%;
+}
+
+.jumbotron {
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: hotpink;
+}
+
+#teacher {
+    padding-top: 150px;
+    height: 100%;
+    background: #1E88E5;
+    width: 100%;
+    position: relative;
+}
+
+#teacher p {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#student {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background: #1E88E5;
+    width: 100%;
+    position: relative;
+	height: 100%
+
+}
+
+.result {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    color: black;
+    background: #1E88E5;
+    line-height: 2;
+    min-height: 1150px;
+    width: 100%;
+    position: relative;
+	height: 100%
+
+}
+
+#student p {
+    padding-bottom: 100px;
+    width: 100%;
+
+}
+
+.student-one {
+    height: 300px;
+    padding: 10px;
+    background-clip: padding-box;
+    border: 10px solid transparent;
+    background: #1E88E5;
+    text-align: center;
+}
+
+.student-alt {
+    height: 300px;
+    padding: 10px;
+    background-clip: padding-box;
+    border: 10px solid transparent;
+    background: #1E88E5;
+    text-align: center;
+}
+.tabledetals{
+    text-align: center;
+    margin: auto;
+
+}
+
+#checkout {
+    padding-top: 150px;
+    height: 100%;
+    color: #fff;
+    background: #1E88E5;
+    width: 100%;
+    position: relative;
+}
+
+.pcheckout {
+    padding-bottom: 75px;
+
+}
+
+#search {
+    padding-top: 100px;
+    color: black;
+    background: #1E88E5;
+    line-height: 2;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.div-col {
+    width: 650px;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+}
